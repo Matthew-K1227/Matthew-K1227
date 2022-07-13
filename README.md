@@ -2,7 +2,7 @@
 
 I am Matthew Kuncheria, people call me Matt, a data science student from [The University of Texas of Melbourne](https://www.unimelb.edu.au/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-kuncheria/)](https://www.linkedin.com/in/matthew-kuncheria/)
+[![Linkedin Badge](https://img.shields.io/badge/-Matthew K-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-kuncheria/)](https://www.linkedin.com/in/matthew-kuncheria/)
 [![Gmail Badge](https://img.shields.io/badge/-matthewkuncheria900@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthewkuncheria900@gmail.com)](mailto:matthewkuncheria900@gmail.com)
 
 ## ⚡ Technologies
