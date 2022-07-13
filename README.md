@@ -6,7 +6,7 @@ Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-kuncheria/)](https://www.linkedin.com/in/matthew-kuncheria/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthewkuncheria900@gmail.com)](mailto:matthewkuncheria900@gmail.com)
-![Discord Badge](https://dcbadge.vercel.app/api/shield/437535189477097473)
+![Discord Badge](https://dcbadge.vercel.app/api/shield/437535189477097473?compact=true)
 
 ## ⚡ Technologies
 
