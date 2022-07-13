@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Matthew Kuncheria, people call me Matt, a data science student from [The University of Texas of Melbourne](https://www.unimelb.edu.au/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Matthew Kuncheria, people call me Matt, a data science student from [The University of Melbourne](https://www.unimelb.edu.au/). I am a tech enthusiast & an open-source beginner. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-kuncheria/)](https://www.linkedin.com/in/matthew-kuncheria/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthewkuncheria900@gmail.com)](mailto:matthewkuncheria900@gmail.com)
